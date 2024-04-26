@@ -1,0 +1,43 @@
+---
+title: "Insights from QGreenland workshops"
+subtitle: "lessons for anyone seeking to improve learning with open science"
+author:
+  - name: "Matt Fisher"
+    orcid: "0000-0003-3260-5445"
+  - name: "Twila Moon"
+    orcid: "0000-0003-0968-7008"
+  - name: "Alyse Thurber"
+    orcid: "0009-0003-2026-0002"
+  - name: "Trey Stafford"
+    orcid: "0000-0002-5510-0055"
+---
+
+
+{{< include "/logos.md" >}}
+
+
+## Abstract
+
+This poster highlights the successes and challenges of educational workshops
+facilitated by the QGreenland team in 2023. QGreenland is an NSF-funded
+initiative to improve accessibility and usability of geospatial data related to
+Greenland. The QGreenland data package is a curated collection of online and
+offline interdisciplinary data intended for use with QGIS, a geospatial analysis
+and visualization suite like ArcGIS, but free and open-source.QGreenland has
+developed resources such as workshops and tutorials to make QGreenland
+easy-to-use by the general public. Video tutorials and how-to guides are
+available for new and advanced GIS users. Moreover, curricula have been
+developed to use QGreenland in high-school and undergraduate classrooms for
+teaching about Greenland.
+
+In addition to these resources, the QGreenland team has developed and
+facilitated virtual and in-person workshops that target new, intermediate, and
+advanced GIS users and researchers. This poster details our experiences with
+facilitating these workshops and includes recommendations for other workshop
+planners. In April 2023, the QGreenland team conducted in-person workshops in
+Denmark and Greenland that focused on beginner and intermediate GIS skills. In
+May, a virtual researcher workshop focused on best practices for geospatial data
+management. Finally, a workshop focused on educators was conducted in June. In
+addition, the poster touches on educational materials currently in development
+and planned for the next few years as part of a new collaboration with the
+Arctic Data Center (ADC), titled QGreenland-Net.
