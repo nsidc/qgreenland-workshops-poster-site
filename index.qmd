@@ -2,16 +2,15 @@
 title: "Insights from QGreenland workshops"
 subtitle: "lessons for anyone seeking to improve learning with open science"
 author:
-  - name: "Matt Fisher"
-    orcid: "0000-0003-3260-5445"
+  - name: "Trey Stafford"
+    orcid: "0000-0002-5510-0055"
   - name: "Twila Moon"
     orcid: "0000-0003-0968-7008"
   - name: "Alyse Thurber"
     orcid: "0009-0003-2026-0002"
-  - name: "Trey Stafford"
-    orcid: "0000-0002-5510-0055"
+  - name: "Matt Fisher"
+    orcid: "0000-0003-3260-5445"
 ---
-
 
 {{< include "/logos.md" >}}
 
