@@ -41,3 +41,7 @@ management. Finally, a workshop focused on educators was conducted in June. In
 addition, the poster touches on educational materials currently in development
 and planned for the next few years as part of a new collaboration with the
 Arctic Data Center (ADC), titled QGreenland-Net.
+
+## Poster
+
+![Image of the CIRES Rendezvous 2024 poster](/images/poster.png)
