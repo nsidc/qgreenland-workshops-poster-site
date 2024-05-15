@@ -3,12 +3,6 @@ project:
 
 website:
   title: "Insights from QGreenland workshops"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Abstract
-      - href: references.md
-        text: References
 
 format:
   html:

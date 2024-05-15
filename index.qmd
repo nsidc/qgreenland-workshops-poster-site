@@ -58,3 +58,21 @@ Arctic Data Center (ADC), titled QGreenland-Net.
 
 ![Image of the CIRES Rendezvous 2024 poster](/images/poster.png)
 
+
+## Learn more!
+
+* [QGreenland official site](https://qgreenland.org)
+* [QGreenland 2023 Researcher Workshop](https://qgreenland-workshop-2023-researcher.github.io/)
+    * [Workshop outcomes](https://qgreenland-workshop-2023-researcher.github.io/outcomes/)
+    * [Workshop open-source software](https://qgreenland-workshop-2023-researcher.github.io/content/built-with-open-source.html)
+    * [QGreenland & CryoCloud Jupyter Blog post](https://blog.jupyter.org/desktop-gis-software-in-the-cloud-with-jupyterhub-ddced297019a)!
+    * [CryoCloud official site](https://cryointhecloud.com/)
+* [QGreenland 2023 Educator Workshop](https://qgreenland-workshop-2023-educator.github.io/)
+* [QGreenland on YouTube](https://www.youtube.com/@qgreenland)
+
+### About the team
+
+* [Trey Stafford](https://cires.colorado.edu/people/trey-stafford)
+* [Matt Fisher](https://mfisher87.github.io) | [GitHub](https://github.com/mfisher87)
+* [Twila Moon](https://nsidc.org/about/about-nsidc/what-we-do/our-people/twila_moon)
+* [Alyse Thurber](https://cires.colorado.edu/ceee/people/alyse-thurber)
