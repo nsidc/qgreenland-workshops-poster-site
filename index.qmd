@@ -15,6 +15,17 @@ author:
 {{< include "/logos.md" >}}
 
 
+## Welcome!
+
+This website is for people interested in learning more about the QGreenland
+team's "Insights from QGreenland workshops" poster presented at the [2024 CIRES
+Rendezvous](https://ciresevents.colorado.edu/rendezvous/) under the
+"Communications, Policy, Outreach, Education" theme.
+
+To learn more about QGreenland and download the QGreenland data package, visit
+our website at [qgreenland.org](https://qgreenland.org)!
+
+
 ## Abstract
 
 This poster highlights the successes and challenges of educational workshops
